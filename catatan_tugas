@@ -3,3 +3,4 @@ yang harus di cari (PR)
 
 bug:
 1. relasi transaksi retur hanya boleh membuka barang yang ada saat di invoice. (last resort: mainin di gui)
+2. pisahkan tabel stock (qty )dan barang (id_barang / jenis)
