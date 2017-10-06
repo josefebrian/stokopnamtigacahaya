@@ -1,0 +1,2 @@
+# stokopnamtigacahaya
+mesin hitung duit
