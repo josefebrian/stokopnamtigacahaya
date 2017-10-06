@@ -4,6 +4,8 @@ yang harus di cari (PR)
 bug:
 1. relasi transaksi retur hanya boleh membuka barang yang ada saat di invoice. (last resort: mainin di gui)
 2. pisahkan tabel stock (qty )dan barang (id_barang / jenis)
+3. tabel transaksi ditambahkan tabel barang yang dibeli + diskon
+4. tabel transaksi beranak tabel keranjang belanja (bbrp bagian dari tabel transaksi dipindah ke tabel keranjang)
 
 catatan:
 1. di gui klasifikasi garansi berapa lama jangka garansi dan jenis garansi (Bikin rumus -> tgl retur -mengurangi tgl void garansi)
