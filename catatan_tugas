@@ -6,4 +6,4 @@ bug:
 2. pisahkan tabel stock (qty )dan barang (id_barang / jenis)
 
 catatan:
-1. di gui klasifikasi garansi berapa lama jangka garansi dan jenis garansi
+1. di gui klasifikasi garansi berapa lama jangka garansi dan jenis garansi (Bikin rumus -> tgl retur -mengurangi tgl void garansi)
