@@ -10,3 +10,12 @@ bug:
 
 catatan:
 1. di gui klasifikasi garansi berapa lama jangka garansi dan jenis garansi (Bikin rumus -> tgl retur -mengurangi tgl void garansi)
+
+
+
+
+
+
+
+bikin Query:
+SELECT id_barang, concat (jenis,' ', ragam,' ',merk,' ',seri) as nama_barang, qty as stock, harga_beli as modal, garansi from barang
