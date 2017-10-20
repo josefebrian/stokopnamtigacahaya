@@ -10,6 +10,8 @@ bug:
 
 catatan:
 1. di gui klasifikasi garansi berapa lama jangka garansi dan jenis garansi (Bikin rumus -> tgl retur -mengurangi tgl void garansi)
+2. 1 id_karyawan hanya bisa login pada 1 id_toko
+3. tambah table supplier
 
 
 
