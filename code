@@ -1,0 +1,2 @@
+query :
+untuk update : UPDATE test SET id = concat( prd, no ) ;
